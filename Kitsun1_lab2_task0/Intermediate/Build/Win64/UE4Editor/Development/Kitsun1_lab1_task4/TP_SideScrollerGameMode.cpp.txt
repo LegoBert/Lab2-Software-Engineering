@@ -1,0 +1,15 @@
+C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab1_task4\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab1_task4\Definitions.Kitsun1_lab1_task4.h
+C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab1_task4\Source\Kitsun1_lab1_task4\TP_SideScroller\TP_SideScrollerGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab1_task4\Intermediate\Build\Win64\UE4Editor\Inc\Kitsun1_lab1_task4\TP_SideScrollerGameMode.generated.h
+C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab1_task4\Source\Kitsun1_lab1_task4\TP_SideScroller\TP_SideScrollerCharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab1_task4\Intermediate\Build\Win64\UE4Editor\Inc\Kitsun1_lab1_task4\TP_SideScrollerCharacter.generated.h

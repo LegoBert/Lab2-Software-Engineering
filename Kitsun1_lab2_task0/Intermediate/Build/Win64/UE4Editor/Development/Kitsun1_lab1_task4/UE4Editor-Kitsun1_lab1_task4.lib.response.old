@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Kitsun1_lab1_task4.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\GitHub\Lab1-Software-engineering\Kitsun1_lab1_task4\Intermediate\Build\Win64\Kitsun1_lab1_task4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\GitHub\Lab1-Software-engineering\Kitsun1_lab1_task4\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab1_task4\Kitsun1_lab1_task4.cpp.obj"
+"C:\GitHub\Lab1-Software-engineering\Kitsun1_lab1_task4\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab1_task4\Kitsun1_lab1_task4GameModeBase.cpp.obj"
+"C:\GitHub\Lab1-Software-engineering\Kitsun1_lab1_task4\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab1_task4\Kitsun1_lab1_task4.init.gen.cpp.obj"
+"C:\GitHub\Lab1-Software-engineering\Kitsun1_lab1_task4\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab1_task4\Kitsun1_lab1_task4GameModeBase.gen.cpp.obj"
+"C:\GitHub\Lab1-Software-engineering\Kitsun1_lab1_task4\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab1_task4\Default.rc2.res"
+/OUT:"C:\GitHub\Lab1-Software-engineering\Kitsun1_lab1_task4\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab1_task4\UE4Editor-Kitsun1_lab1_task4.lib"

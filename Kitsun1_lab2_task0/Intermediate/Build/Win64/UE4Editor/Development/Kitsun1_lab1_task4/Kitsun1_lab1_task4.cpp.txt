@@ -1,0 +1,2 @@
+C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab1_task4\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab1_task4\Definitions.Kitsun1_lab1_task4.h
+C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab1_task4\Source\Kitsun1_lab1_task4\Kitsun1_lab1_task4.h

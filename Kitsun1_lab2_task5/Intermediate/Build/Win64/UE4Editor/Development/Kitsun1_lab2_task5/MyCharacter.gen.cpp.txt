@@ -1,0 +1,14 @@
+C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab2_task5\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab2_task5\Definitions.Kitsun1_lab2_task5.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab2_task5\Source\Kitsun1_lab2_task5/MyCharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
+C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab2_task5\Intermediate\Build\Win64\UE4Editor\Inc\Kitsun1_lab2_task5\MyCharacter.generated.h

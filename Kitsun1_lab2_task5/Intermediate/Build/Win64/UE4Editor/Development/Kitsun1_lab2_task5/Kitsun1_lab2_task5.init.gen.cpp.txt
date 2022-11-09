@@ -1,0 +1,3 @@
+C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab2_task5\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab2_task5\Definitions.Kitsun1_lab2_task5.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

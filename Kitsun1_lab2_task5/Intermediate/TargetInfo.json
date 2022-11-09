@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Kitsun1_lab2_task5",
+			"Path": "C:\\Users\\kitsun-1-local\\Documents\\GitHub\\Lab2-Software-Engineering\\Kitsun1_lab2_task5\\Source\\Kitsun1_lab2_task5.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Kitsun1_lab2_task5Editor",
+			"Path": "C:\\Users\\kitsun-1-local\\Documents\\GitHub\\Lab2-Software-Engineering\\Kitsun1_lab2_task5\\Source\\Kitsun1_lab2_task5Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

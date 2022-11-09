@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Kitsun1_lab2_task5-1801.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab2_task5\Intermediate\Build\Win64\Kitsun1_lab2_task5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab2_task5\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab2_task5\Kitsun1_lab2_task5.cpp.obj"
+"C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab2_task5\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab2_task5\Kitsun1_lab2_task5GameModeBase.cpp.obj"
+"C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab2_task5\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab2_task5\MyCharacter.cpp.obj"
+"C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab2_task5\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab2_task5\Kitsun1_lab2_task5.init.gen.cpp.obj"
+"C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab2_task5\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab2_task5\Kitsun1_lab2_task5GameModeBase.gen.cpp.obj"
+"C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab2_task5\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab2_task5\MyCharacter.gen.cpp.obj"
+"C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab2_task5\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab2_task5\Default.rc2.res"
+/OUT:"C:\Users\kitsun-1-local\Documents\GitHub\Lab2-Software-Engineering\Kitsun1_lab2_task5\Intermediate\Build\Win64\UE4Editor\Development\Kitsun1_lab2_task5\UE4Editor-Kitsun1_lab2_task5-1801.lib"

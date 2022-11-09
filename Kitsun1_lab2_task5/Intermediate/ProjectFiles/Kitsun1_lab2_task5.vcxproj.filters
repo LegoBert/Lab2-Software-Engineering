@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Kitsun1_lab2_task5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1F07FC21-CC28-49A0-ADFA-4D7A82951E2B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Kitsun1_lab2_task5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Kitsun1_lab2_task5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B6D7D2CA-598A-4B61-89FC-35269DC00F36}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Kitsun1_lab2_task5">
+      <UniqueIdentifier>{81CB00CA-656B-4561-8911-39831848EF0E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Kitsun1_lab2_task5\Kitsun1_lab2_task5.Build.cs">
+      <Filter>Source\Kitsun1_lab2_task5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Kitsun1_lab2_task5\Kitsun1_lab2_task5.cpp">
+      <Filter>Source\Kitsun1_lab2_task5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Kitsun1_lab2_task5\Kitsun1_lab2_task5.h">
+      <Filter>Source\Kitsun1_lab2_task5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Kitsun1_lab2_task5\Kitsun1_lab2_task5GameModeBase.cpp">
+      <Filter>Source\Kitsun1_lab2_task5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Kitsun1_lab2_task5\Kitsun1_lab2_task5GameModeBase.h">
+      <Filter>Source\Kitsun1_lab2_task5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Kitsun1_lab2_task5\MyCharacter.cpp">
+      <Filter>Source\Kitsun1_lab2_task5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Kitsun1_lab2_task5\MyCharacter.h">
+      <Filter>Source\Kitsun1_lab2_task5</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
